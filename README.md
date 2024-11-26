@@ -82,6 +82,6 @@ Two classification models were implemented and evaluated:
 3. Run the script to preprocess the data, train the models, and visualize the results.
 
 ## Future Work
-- Tune hyperparameters for both models to improve performance.
+- Tune hyperparameters for all models to improve performance.
 - Explore additional models such as XGBoost or neural networks for further improvement.
 - Address potential class imbalance through techniques like SMOTE or class weighting.
